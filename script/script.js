@@ -1,4 +1,3 @@
-console.log("Hello there")
 var category = 'happiness';
 $.ajax({
     method: 'GET',

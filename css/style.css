@@ -127,3 +127,12 @@ p,h2{
     fill: #c13584;
   }
   
+@media screen and (max-width: 600px){
+    .social-buttons{
+        width: fit-content;
+    }
+    .social-button{
+        width: 20px;
+        height: 20px;
+    }
+}
